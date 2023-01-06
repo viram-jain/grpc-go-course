@@ -23,4 +23,5 @@ func main() {
 
 	doSum(client)
 	doPrimes(client)
+	doAverage(client)
 }
